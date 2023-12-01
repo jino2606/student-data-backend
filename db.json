@@ -1,4 +1,158 @@
 {
-    "studentData": [],
-    "groups": []
+  "studentData": [
+    {
+      "url": "https://images.unsplash.com/photo-1701077136756-3b8439292118?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw0NXx8fGVufDB8fHx8fA%3D%3D",
+      "name": "John Doe ",
+      "rollno": "32",
+      "gender": "Male",
+      "email": "john.doe@example.com",
+      "address": "123 Main St",
+      "phonenumber": "555-1234",
+      "city": "Cityville",
+      "state": "Stateville",
+      "place": "Someplace",
+      "group": "MEARN Batch",
+      "id": 1
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1592194996308-7b43878e84a6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cGV0fGVufDB8fDB8fHww",
+      "name": "CAT",
+      "rollno": "45",
+      "gender": "male",
+      "email": "Cattycat@example.com",
+      "address": "789 Pine St",
+      "phonenumber": "555-9876",
+      "city": "Villageville",
+      "state": "Stateville",
+      "place": "Anyplace",
+      "group": "Machine Learning",
+      "id": 3
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1530041539828-114de669390e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8cGV0fGVufDB8fDB8fHww",
+      "name": "Figo",
+      "rollno": "45",
+      "gender": "Male",
+      "email": "Dog.johnson@example.com",
+      "address": "789 Pine St",
+      "phonenumber": "555-9876",
+      "city": "Villageville",
+      "state": "Stateville",
+      "place": "Anyplace",
+      "group": "Machine Learning",
+      "id": 10
+    },
+    {
+      "url": "https://plus.unsplash.com/premium_photo-1669277330818-c5cc14e5dfea?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fHBldHxlbnwwfHwwfHx8MA%3D%3D",
+      "name": "Whitey Doggo",
+      "rollno": "45",
+      "gender": "Female",
+      "email": "bob.johnson@example.com",
+      "address": "789 Pine St",
+      "phonenumber": "555-9876",
+      "city": "Villageville",
+      "state": "Stateville",
+      "place": "Anyplace",
+      "group": "MEARN Batch",
+      "id": 13
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1625794084867-8ddd239946b1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjh8fHBldHxlbnwwfHwwfHx8MA%3D%3D",
+      "name": "Gold",
+      "rollno": "3",
+      "gender": "Male",
+      "email": "goldygold@example.com",
+      "address": "789 Pine St",
+      "phonenumber": "555-9876",
+      "city": "Villageville",
+      "state": "Stateville",
+      "place": "Anyplace",
+      "group": "Data Science Batch",
+      "id": 14
+    },
+    {
+      "url": "https://plus.unsplash.com/premium_photo-1664371674939-c149e5b4a141?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjl8fHBldHxlbnwwfHwwfHx8MA%3D%3D",
+      "name": "CATEY",
+      "rollno": "45",
+      "gender": "Female",
+      "email": "bob.johnson@example.com",
+      "address": "789 Pine St",
+      "phonenumber": "555-9876",
+      "city": "Villageville",
+      "state": "Stateville",
+      "place": "Anyplace",
+      "group": "Data Science Batch",
+      "id": 15
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1517849845537-4d257902454a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzB8fHBldHxlbnwwfHwwfHx8MA%3D%3D",
+      "name": "Jinmmy",
+      "rollno": "45",
+      "gender": "Male",
+      "email": "bob.johnson@example.com",
+      "address": "789 Pine St",
+      "phonenumber": "555-9876",
+      "city": "Villageville",
+      "state": "Stateville",
+      "place": "Anyplace",
+      "group": "Data Science Batch",
+      "id": 16
+    },
+    {
+      "url": "https://plus.unsplash.com/premium_photo-1666878155781-f86514e5808b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDF8fHBldHxlbnwwfHwwfHx8MA%3D%3D",
+      "name": "Huskoi",
+      "rollno": "3",
+      "gender": "Male",
+      "email": "husk.@huskey.com",
+      "address": "789 Pine St",
+      "phonenumber": "555-9876",
+      "city": "Villageville",
+      "state": "Stateville",
+      "place": "Anyplace",
+      "group": "MEARN Batch",
+      "id": 18
+    },
+    {
+      "url": "data:image/jpeg;base64,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",
+      "name": "Alice Williams",
+      "rollno": "21",
+      "gender": "Female",
+      "email": "alice.williams@example.com",
+      "address": "101 Cedar St",
+      "phonenumber": "555-1111",
+      "city": "Hamletville",
+      "state": "Stateville",
+      "place": "Nowhere",
+      "group": "Machine Learning",
+      "id": 50
+    },
+    {
+      "url": "data:image/jpeg;base64,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",
+      "name": "Preter Griffin",
+      "rollno": "2",
+      "gender": "Male",
+      "email": "peterGriffin@gmail.com",
+      "address": "Quohok fasdas Cirtyty Center",
+      "phonenumber": "9876543210",
+      "city": "Quohok City",
+      "state": "Quohok Line",
+      "place": "USA",
+      "group": "Data Science Batch",
+      "id": 52
+    }
+  ],
+  "groups": [
+    {
+      "groupName": "MEARN Batch",
+      "id": 2
+    },
+    {
+      "groupName": "Data Science Batch",
+      "id": 3
+    },
+    {
+      "groupName": "Machine Learning",
+      "id": 4
+    }
+  ]
 }
